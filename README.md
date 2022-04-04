@@ -23,4 +23,4 @@
 
 > **Commit 시 권한이 없다는 오류 해결**
 * github 계정 → 설정  → 왼쪽 카테고리에 [Developer settins] → 왼쪽 메뉴 [Personal access token] → 오른쪽 상단[Generate new token] 
-* → 필요한 권한 선택(Select scopes)후 생성 → commit 할 때 P/W 는 발급된 토큰으로 기입하면 권한이 없다는 오류 해결
+ → 필요한 권한 선택(Select scopes)후 생성 → commit 할 때 P/W 는 발급된 토큰으로 기입
